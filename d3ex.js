@@ -56,3 +56,5 @@ chart = {
   // Return the SVG element.
   return svg.node();
 }
+
+console.log("Hello");
